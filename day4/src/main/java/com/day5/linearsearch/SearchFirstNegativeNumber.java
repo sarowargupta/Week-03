@@ -1,4 +1,4 @@
-package com.day5.binarysearch;
+package com.day5.linearsearch;
 
 public class SearchFirstNegativeNumber {
 
