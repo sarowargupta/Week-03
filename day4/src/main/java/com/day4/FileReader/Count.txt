@@ -1,0 +1,3 @@
+Hello to the world of java.
+As we all know that java is a programming language which is based on the concept of oops.
+Java is a platform which is independent because it has JVM(Java Virtual Machine).
