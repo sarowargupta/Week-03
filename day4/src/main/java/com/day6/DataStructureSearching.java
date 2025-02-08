@@ -1,7 +1,7 @@
 package com.day6;
 import java.util.*;
 
-public class DataStructureSearching {
+public class DataStructureSearching{
     public static void main(String[] args) {
         //Dataset Size array
         int[] datasetSizes = {1000, 100000, 1000000};
